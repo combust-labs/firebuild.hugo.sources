@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://combust-labs.github.io/firebuild-docs/"
 languageCode = "en-us"
 title = "firebuild documentation"
 theme = "theme-learn"
