@@ -67,8 +67,6 @@ sudo firebuild run \
     --profile=standard \
     --from=combust-labs/consul:1.9.4 \
     --cni-network-name=machines \
-    --identity-file=/home/radek/.ssh/github.pub \
-    --ssh-user=alpine \
     --vmlinux-id=vmlinux-v5.8 \
     --ip-address=192.168.127.11 \
     --name=consul2 \
