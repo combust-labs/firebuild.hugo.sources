@@ -37,6 +37,7 @@ Run a virtual machine.
 - `--cpu`, default `1`, number of CPUs for the build VMM, required
 - `--cpu-template`: no default, CPU template (empty, C2 or T3)
 - `--ht-enabled`: default `false`, when specified, enable hyper-threading
+- `--ip-address`: no default, IP address to try to allocate to the VM; if not given, a new IP will be allocated
 - `--kernel-args`: default `console=ttyS0 noapic reboot=k panic=1 pci=off nomodules rw`, kernel arguments, required
 - `--mem`: default `128`, amount of memory for the VMM in megabytes, required
 - `--no-mmds`: default `false`, if set, disables MMDS, the build process requires MMDS
