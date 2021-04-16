@@ -12,6 +12,11 @@ chapter: true
 - `combust-labs/firebuild-mmds`: the guest facing components used for the vminit binary: [link](https://github.com/combust-labs/firebuild-mmds)
 - `combust-labs/firebuild-shared`: shared components: gRPC driver and common structures: [link](https://github.com/combust-labs/firebuild-shared)
 
-### Not core related
+### Dockerfiles
 
 - `combust-labs/dockerfiles`: a set of Dockerfiles for some of the common infrastructure components: [link](https://github.com/combust-labs/dockerfiles)
+
+## Documentation
+
+- `combust-labs/firebuild-docs`: this page is hosted from this repository using GitHub Pages: [link](https://github.com/combust-labs/firebuild-docs)
+- `combust-labs/firebuild.hugo.sources`: the Hugo sources of this page are hosted in this repository: [link](https://github.com/combust-labs/firebuild.hugo.sources)
